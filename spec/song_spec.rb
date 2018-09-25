@@ -1,7 +1,4 @@
 require_relative 'spec_helper.rb'
-extend Memorable
-
-
 
 describe Song do
   before(:each) do
