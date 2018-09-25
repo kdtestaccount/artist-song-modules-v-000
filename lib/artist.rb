@@ -2,7 +2,7 @@ require 'pry'
 
 
 class Artist
-  
+  include environment
   extend Memorable
 
   attr_accessor :name
