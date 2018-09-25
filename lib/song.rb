@@ -2,6 +2,9 @@ require 'pry'
 
 
 class Song
+  
+  extend 
+  
   attr_accessor :name
   attr_reader :artist
 
