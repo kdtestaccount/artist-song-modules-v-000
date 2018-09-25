@@ -15,7 +15,7 @@ end
 module InstanceMethods
 
   def initialize
-    
+   self.all. 
   end
 end
 
